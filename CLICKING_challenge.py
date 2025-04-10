@@ -9,7 +9,7 @@ CROSSHAIR = "🎯"
 MAX_TARGETS = 1
 
 st.set_page_config(page_title="🎯 CLICKING CHALLENGE", layout="centered")
-st.title("🪖 Military Aim Trainer")
+st.title("🪖 CLICKING CHALLENGE")
 st.write("Click the targets as fast as you can! You have 30 seconds.")
 
 # Game State
