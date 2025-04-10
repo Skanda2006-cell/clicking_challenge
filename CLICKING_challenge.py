@@ -8,7 +8,7 @@ GAME_DURATION = 30  # seconds
 CROSSHAIR = "🎯"
 MAX_TARGETS = 1
 
-st.set_page_config(page_title="🎯 Military Aim Trainer", layout="centered")
+st.set_page_config(page_title="🎯 CLICKING CHALLENGE", layout="centered")
 st.title("🪖 Military Aim Trainer")
 st.write("Click the targets as fast as you can! You have 30 seconds.")
 
